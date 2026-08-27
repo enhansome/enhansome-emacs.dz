@@ -1,9 +1,16 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-26T13:37:52.372Z",
-    "original_repository": "caisah/emacs.dz",
-    "original_repository_id": 71278156,
+    "last_updated": "2026-08-27T11:35:08.705Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 71278156,
+      "language": null,
+      "last_commit": "2026-06-24T10:18:25Z",
+      "owner": "caisah",
+      "repo": "emacs.dz",
+      "stars": 1552
+    },
     "original_repository_sha": "48700aad1b6f6d6e4d8106c1f580c9015e2d8921",
     "enhanced_repository": "enhansome/enhansome-emacs.dz",
     "enhanced_repository_description": null,
