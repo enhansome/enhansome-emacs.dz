@@ -1,15 +1,27 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-28T22:36:08.915Z",
+    "last_updated": "2026-08-29T04:29:20.108Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome emacs config files",
+      "homepage": null,
       "id": 71278156,
       "language": null,
+      "license": null,
       "last_commit": "2026-06-24T10:18:25Z",
+      "open_issues": 3,
       "owner": "caisah",
       "repo": "emacs.dz",
-      "stars": 1552
+      "stars": 1552,
+      "topics": [
+        "awesome",
+        "configuration",
+        "dotfile",
+        "emacs",
+        "emacs-configuration",
+        "list"
+      ]
     },
     "original_repository_sha": "48700aad1b6f6d6e4d8106c1f580c9015e2d8921",
     "enhanced_repository": "enhansome/enhansome-emacs.dz",
