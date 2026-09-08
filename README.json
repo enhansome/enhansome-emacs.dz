@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-09-07T17:53:15.131Z",
+    "last_updated": "2026-09-08T16:49:27.629Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome emacs config files",
@@ -9,11 +9,11 @@
       "id": 71278156,
       "language": null,
       "license": null,
-      "last_commit": "2026-06-24T10:18:25Z",
+      "last_commit": "2026-09-08T10:23:12Z",
       "open_issues": 3,
       "owner": "caisah",
       "repo": "emacs.dz",
-      "stars": 1552,
+      "stars": 1551,
       "topics": [
         "awesome",
         "configuration",
@@ -23,7 +23,7 @@
         "list"
       ]
     },
-    "original_repository_sha": "48700aad1b6f6d6e4d8106c1f580c9015e2d8921",
+    "original_repository_sha": "994543163640a65cd34eb68b97f1d4fe8578f040",
     "enhanced_repository": "enhansome/enhansome-emacs.dz",
     "enhanced_repository_description": null,
     "title": "Awesome emacs.dz with stars"
