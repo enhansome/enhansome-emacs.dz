@@ -85,7 +85,7 @@
 \|-----------------------+----------------------+-----------------------+----------+-----------------------+---------------+----------+-------------------------------------------------------------|
 \| Karl Voit             | \[\[<https://github.com/novoid/dot-emacs/][.emacs.d> ⭐ 209 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-05-20]]             | classic               | ✔        | use-package           |           25+ | ✔        | org, OS-independent, hydra, PIM                             |
 \|-----------------------+----------------------+-----------------------+----------+-----------------------+---------------+----------+-------------------------------------------------------------|
-\| Kaushal Modi          | \[\[<https://github.com/kaushalmodi/.emacs.d][.emacs.d>]]             | classic               |          | use-package           |         24.5+ | \[\[<https://github.com/kaushalmodi/.emacs.d#using-my-emacs-setup][✔> ⭐ 266 | 🐛 5 | 🌐 Emacs Lisp | 📅 2026-05-29]]        | GNU/Linux, Windows, Termux (Android), custom theme.         |
+\| Kaushal Modi          | \[\[<https://github.com/kaushalmodi/.emacs.d][.emacs.d>]]             | classic               |          | use-package           |         24.5+ | \[\[<https://github.com/kaushalmodi/.emacs.d#using-my-emacs-setup][✔> ⭐ 266 | 🐛 5 | 🌐 Emacs Lisp | 📅 2026-09-14]]        | GNU/Linux, Windows, Termux (Android), custom theme.         |
 \|-----------------------+----------------------+-----------------------+----------+-----------------------+---------------+----------+-------------------------------------------------------------|
 \| Karthink Chikmagalur  | \[\[<https://github.com/karthink/.emacs.d][.emacs.d>]]             | classic               |          | elpaca + use-package  |           27+ | ✔        | org, email, LaTeX, Anki, minibuffer workflow                |
 \|-----------------------+----------------------+-----------------------+----------+-----------------------+---------------+----------+-------------------------------------------------------------|
@@ -158,7 +158,7 @@ Most of the people on this list are either heavy contributors to \[\[<https://me
 \*\*\*\* How do you get yourself on this list?
 First you should ask yourself why would you want to get on this list? (\[\[<https://www.youtube.com/watch?v=PzRg--jhO8g][I'm> kiddin'...]])
 Most of the times a pull request would suffice. Keep in mind though that I won't accept self submission if the /config/ is not vetted by the other people or is not original enough.
-One can also contribute by adding suggestions to \[\[<https://github.com/caisah/emacs.dz/issues/34][this> ⭐ 1,552 | 🐛 3 | 📅 2026-09-08 thread]].
+One can also contribute by adding suggestions to \[\[<https://github.com/caisah/emacs.dz/issues/34][this> ⭐ 1,554 | 🐛 3 | 📅 2026-09-08 thread]].
 
 \*\*\*\* Can you ask your friend to list you?
 Why not? Though if it's a real friend he would probably also state what makes your /config/ special. :wink:
@@ -168,4 +168,4 @@ This list was inspired by \[\[<https://github.com/emacs-tw/awesome-emacs][awesom
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
