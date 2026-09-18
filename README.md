@@ -85,7 +85,7 @@
 \|-----------------------+----------------------+-----------------------+----------+-----------------------+---------------+----------+-------------------------------------------------------------|
 \| Karl Voit             | \[\[<https://github.com/novoid/dot-emacs/][.emacs.d> ⭐ 209 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-05-20]]             | classic               | ✔        | use-package           |           25+ | ✔        | org, OS-independent, hydra, PIM                             |
 \|-----------------------+----------------------+-----------------------+----------+-----------------------+---------------+----------+-------------------------------------------------------------|
-\| Kaushal Modi          | \[\[<https://github.com/kaushalmodi/.emacs.d][.emacs.d>]]             | classic               |          | use-package           |         24.5+ | \[\[<https://github.com/kaushalmodi/.emacs.d#using-my-emacs-setup][✔> ⭐ 266 | 🐛 5 | 🌐 Emacs Lisp | 📅 2026-09-16]]        | GNU/Linux, Windows, Termux (Android), custom theme.         |
+\| Kaushal Modi          | \[\[<https://github.com/kaushalmodi/.emacs.d][.emacs.d>]]             | classic               |          | use-package           |         24.5+ | \[\[<https://github.com/kaushalmodi/.emacs.d#using-my-emacs-setup][✔> ⭐ 266 | 🐛 5 | 🌐 Emacs Lisp | 📅 2026-09-17]]        | GNU/Linux, Windows, Termux (Android), custom theme.         |
 \|-----------------------+----------------------+-----------------------+----------+-----------------------+---------------+----------+-------------------------------------------------------------|
 \| Karthink Chikmagalur  | \[\[<https://github.com/karthink/.emacs.d][.emacs.d>]]             | classic               |          | elpaca + use-package  |           27+ | ✔        | org, email, LaTeX, Anki, minibuffer workflow                |
 \|-----------------------+----------------------+-----------------------+----------+-----------------------+---------------+----------+-------------------------------------------------------------|
@@ -131,7 +131,7 @@
 \|-----------------------+----------------------+-----------------------+----------+-----------------------+---------------+----------+-------------------------------------------------------------|
 \| Steve Purcell         | \[\[<https://github.com/purcell/emacs.d][emacs.d>]]              | classic               |          | package               |         24.1+ | ✔        | web development                                             |
 \|-----------------------+----------------------+-----------------------+----------+-----------------------+---------------+----------+-------------------------------------------------------------|
-\| Syohei Yoshida        | \[\[<https://github.com/syohex/dot_files/tree/master/emacs][emacs> ⭐ 65 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-08-03]]                | classic               |          | el-get                |           25+ | ✔        |                                                             |
+\| Syohei Yoshida        | \[\[<https://github.com/syohex/dot_files/tree/master/emacs][emacs> ⭐ 65 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-09-18]]                | classic               |          | el-get                |           25+ | ✔        |                                                             |
 \|-----------------------+----------------------+-----------------------+----------+-----------------------+---------------+----------+-------------------------------------------------------------|
 \| Taichi Kawabata       | \[\[<https://github.com/kawabata/dotfiles/tree/master/.emacs.d][.emacs.d> ⭐ 19 | 🐛 0 | 🌐 Emacs Lisp | 📅 2016-01-06]]             | classic               |          | use-package           |           25+ | ✔        |                                                             |
 \|-----------------------+----------------------+-----------------------+----------+-----------------------+---------------+----------+-------------------------------------------------------------|
@@ -168,4 +168,4 @@ This list was inspired by \[\[<https://github.com/emacs-tw/awesome-emacs][awesom
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
