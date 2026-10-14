@@ -83,7 +83,7 @@
 \|-----------------------+----------------------+-----------------------+----------+-----------------------+---------------+----------+-------------------------------------------------------------|
 \| Justin Talbott        | \[\[<https://github.com/waymondo/hemacs][hemacs>]]               | classic               |          | use-package           |           25+ | ✔        | osx, programming languages                                  |
 \|-----------------------+----------------------+-----------------------+----------+-----------------------+---------------+----------+-------------------------------------------------------------|
-\| Karl Voit             | \[\[<https://github.com/novoid/dot-emacs/][.emacs.d> ⭐ 209 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-05-20]]             | classic               | ✔        | use-package           |           25+ | ✔        | org, OS-independent, hydra, PIM                             |
+\| Karl Voit             | \[\[<https://github.com/novoid/dot-emacs/][.emacs.d> ⭐ 209 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-10-14]]             | classic               | ✔        | use-package           |           25+ | ✔        | org, OS-independent, hydra, PIM                             |
 \|-----------------------+----------------------+-----------------------+----------+-----------------------+---------------+----------+-------------------------------------------------------------|
 \| Kaushal Modi          | \[\[<https://github.com/kaushalmodi/.emacs.d][.emacs.d>]]             | classic               |          | use-package           |         24.5+ | \[\[<https://github.com/kaushalmodi/.emacs.d#using-my-emacs-setup][✔> ⭐ 266 | 🐛 5 | 🌐 Emacs Lisp | 📅 2026-09-22]]        | GNU/Linux, Windows, Termux (Android), custom theme.         |
 \|-----------------------+----------------------+-----------------------+----------+-----------------------+---------------+----------+-------------------------------------------------------------|
@@ -168,4 +168,4 @@ This list was inspired by \[\[<https://github.com/emacs-tw/awesome-emacs][awesom
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
