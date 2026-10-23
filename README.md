@@ -29,7 +29,7 @@
 \|-----------------------+----------------------+-----------------------+----------+-----------------------+---------------+----------+-------------------------------------------------------------|
 \| Alain M. Lafon        | \[\[<https://github.com/munen/emacs.d][.emacs.d>]]             | classic, evi          | ✔        | package               |           24+ | ✔        | mu4e                                                        |
 \|-----------------------+----------------------+-----------------------+----------+-----------------------+---------------+----------+-------------------------------------------------------------|
-\| Alvaro Ramirez        | \[\[<https://github.com/xenodium/dotsies/tree/main/emacs][emacs> ⭐ 225 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-03-13]]                | classic               |          | package, use-package  |               | ✔        | macOS, Swift/iOS, Hammerspoon, org, LLM                     |
+\| Alvaro Ramirez        | \[\[<https://github.com/xenodium/dotsies/tree/main/emacs][emacs> ⭐ 225 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-10-23]]                | classic               |          | package, use-package  |               | ✔        | macOS, Swift/iOS, Hammerspoon, org, LLM                     |
 \|-----------------------+----------------------+-----------------------+----------+-----------------------+---------------+----------+-------------------------------------------------------------|
 \| Alex Kost             | \[\[<https://github.com/alezost/emacs-config][emacs-config>]]         | non-standard          |          | quelpa                |               | ✔        | multiple systems                                            |
 \|-----------------------+----------------------+-----------------------+----------+-----------------------+---------------+----------+-------------------------------------------------------------|
@@ -168,4 +168,4 @@ This list was inspired by \[\[<https://github.com/emacs-tw/awesome-emacs][awesom
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
