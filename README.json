@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-11-12T20:23:26.814Z",
+    "last_updated": "2026-11-13T19:59:01.799Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome emacs config files",
@@ -13,7 +13,7 @@
       "open_issues": 3,
       "owner": "caisah",
       "repo": "emacs.dz",
-      "stars": 1561,
+      "stars": 1558,
       "topics": [
         "awesome",
         "configuration",
