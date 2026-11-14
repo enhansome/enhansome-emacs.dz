@@ -29,7 +29,7 @@
 \|-----------------------+----------------------+-----------------------+----------+-----------------------+---------------+----------+-------------------------------------------------------------|
 \| Alain M. Lafon        | \[\[<https://github.com/munen/emacs.d][.emacs.d>]]             | classic, evi          | ✔        | package               |           24+ | ✔        | mu4e                                                        |
 \|-----------------------+----------------------+-----------------------+----------+-----------------------+---------------+----------+-------------------------------------------------------------|
-\| Alvaro Ramirez        | \[\[<https://github.com/xenodium/dotsies/tree/main/emacs][emacs> ⭐ 225 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-10-27]]                | classic               |          | package, use-package  |               | ✔        | macOS, Swift/iOS, Hammerspoon, org, LLM                     |
+\| Alvaro Ramirez        | \[\[<https://github.com/xenodium/dotsies/tree/main/emacs][emacs> ⭐ 226 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-10-27]]                | classic               |          | package, use-package  |               | ✔        | macOS, Swift/iOS, Hammerspoon, org, LLM                     |
 \|-----------------------+----------------------+-----------------------+----------+-----------------------+---------------+----------+-------------------------------------------------------------|
 \| Alex Kost             | \[\[<https://github.com/alezost/emacs-config][emacs-config>]]         | non-standard          |          | quelpa                |               | ✔        | multiple systems                                            |
 \|-----------------------+----------------------+-----------------------+----------+-----------------------+---------------+----------+-------------------------------------------------------------|
@@ -65,7 +65,7 @@
 \|-----------------------+----------------------+-----------------------+----------+-----------------------+---------------+----------+-------------------------------------------------------------|
 \| Jim Myhrberg          | \[\[<https://github.com/jimeh/.emacs.d][.emacs.d>]]             | classic               |          | package               |          26.1 | ✔        | programming, fully featured, project navigation             |
 \|-----------------------+----------------------+-----------------------+----------+-----------------------+---------------+----------+-------------------------------------------------------------|
-\| Joe Di Castro         | \[\[<https://github.com/joedicastro/dotfiles/tree/master/emacs/.emacs.d][Emacs> ⭐ 583 | 🐛 1 | 🌐 Vim script | 📅 2017-04-22 Configuration]]  | classic               | ✔        | use-package           |               |          | org, uses even images, hydras, mu4e                         |
+\| Joe Di Castro         | \[\[<https://github.com/joedicastro/dotfiles/tree/master/emacs/.emacs.d][Emacs> ⭐ 582 | 🐛 1 | 🌐 Vim script | 📅 2017-04-22 Configuration]]  | classic               | ✔        | use-package           |               |          | org, uses even images, hydras, mu4e                         |
 \|-----------------------+----------------------+-----------------------+----------+-----------------------+---------------+----------+-------------------------------------------------------------|
 \| John Wiegley          | \[\[<https://github.com/jwiegley/dot-emacs][dot-emacs>]]            | classic               |          | use-package           |               | ✔        | inspirational, fully featured, lots of utils, gnus, modules |
 \|-----------------------+----------------------+-----------------------+----------+-----------------------+---------------+----------+-------------------------------------------------------------|
@@ -168,4 +168,4 @@ This list was inspired by \[\[<https://github.com/emacs-tw/awesome-emacs][awesom
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
