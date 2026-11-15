@@ -19,6 +19,7 @@
 * \[\[<https://github.com/LionyxML/emacs-solo][Emacs> Solo]]
 * \[\[<https://github.com/corgi-emacs/corgi][Corgi> Emacs]]
 * \[\[<https://codeberg.org/ashton314/emacs-bedrock/][Emacs> Bedrock]]
+* \[\[<https://radicle.network/nodes/oak.radicle.garden/rad%3AzecRiYjpjFnZWFhygfVM7shaCzJh][Backpack> Emacs]]
 
 \*\* A list of people with nice \[\[<https://www.gnu.org/software/emacs/][emacs>]] config files
 
@@ -168,4 +169,4 @@ This list was inspired by \[\[<https://github.com/emacs-tw/awesome-emacs][awesom
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
